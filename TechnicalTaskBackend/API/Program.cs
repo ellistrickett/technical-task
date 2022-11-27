@@ -1,4 +1,6 @@
+using API.Controllers;
 using API.Data;
+using API.Services;
 using Microsoft.AspNetCore.Mvc.ApplicationModels;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -8,6 +10,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddDbContext<AlertDbContext>();
+
+//builder.Services.AddControllersWithViews();
+builder.Services.AddTransient<IAlertsService, AlertsService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

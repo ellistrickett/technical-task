@@ -83,3 +83,4 @@ C:\Users\ellis\DevelopmentProjects\technical-task\TechnicalTaskBackend\API\bin\D
 C:\Users\ellis\DevelopmentProjects\technical-task\TechnicalTaskBackend\API\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\ellis\DevelopmentProjects\technical-task\TechnicalTaskBackend\API\bin\Debug\net6.0\Seed\alerts.Development.json
 C:\Users\ellis\DevelopmentProjects\technical-task\TechnicalTaskBackend\API\bin\Debug\net6.0\Seed\alerts.json
+C:\Users\ellis\DevelopmentProjects\technical-task\TechnicalTaskBackend\API\bin\Debug\net6.0\appsettings - Copy.Development.json
