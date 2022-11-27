@@ -1,0 +1,1533 @@
+[
+  {
+    "alert": {
+      "alertId": "736fd899-fd34-f59e-7285-1decd889371e",
+      "title": "Casualties reported following explosion at a nitrogen plant in Bierun",
+      "description": "Media sources report that one person has been killed and one more was injured after an explosion at the Nitroerg plant in Bierun this morning, 14 January. Reports indicate that the plant is used to manufacture explosives. At least 15 firefighters are currently on site as emergency operations continue.",
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T12:02:22.067",
+      "endDate": "2021-01-15T12:02:22.067",
+      "countryId": "404e1a5f-7a90-49f7-ab2c-67f96a299deb",
+      "createdDate": "2021-01-14T12:09:49.223",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 50.0806,
+      "longitude": 19.083,
+      "notes": "Avoid the area of the incident as emergency service operations are ongoing. Localised travel disruption is likely and alternate routes or means of transport should be planned ahead of departure to avoid delays. Monitor local media for updates. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "categoryName": "Caution",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "404e1a5f-7a90-49f7-ab2c-67f96a299deb",
+      "countryName": "Poland",
+      "latitude": 52.2298,
+      "longitude": 21.0118,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "PL"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "141a2568-3f45-bc8a-fb81-d331c6dd927b",
+      "title": "New restrictions announced to contain the spread of COVID-19",
+      "description": "Authorities in Mozambique have announced that several new measures will be imposed with the objective of curbing the spread of COVID-19. Under these restrictions, limits will be placed on alcohol sales and mandatory COVID-19 testing will be imposed for travellers moving in and out of the country. Restrictions will also be imposed on the number of customers permitted in restaurants and the amount of time they can spend inside.",
+      "categoryId": "26050e02-c1d2-4584-a702-ea20d2d9d421",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T11:19:30.84",
+      "endDate": "2021-01-15T11:19:30.84",
+      "countryId": "351f2621-5295-46b1-9eb5-345f1c303863",
+      "createdDate": "2021-01-14T11:44:36.147",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": -25.924,
+      "longitude": 32.5746,
+      "notes": "Solace Global advises travellers to ensure that they are aware of any country-specific travel restrictions that may be in place and have all the relevant documentation available whilst in-country. There is a risk that any country or area may implement new restrictions without notice.  It is advised that you check your relevant government's travel advice and contact your airline or travel provider for more details. Continue to monitor for updates. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "26050e02-c1d2-4584-a702-ea20d2d9d421",
+      "categoryName": "Travel Information",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "351f2621-5295-46b1-9eb5-345f1c303863",
+      "countryName": "Mozambique",
+      "latitude": -25.9653,
+      "longitude": 32.5892,
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "isDeleted": false,
+      "isoCode": "MZ"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "a63f82d4-63a5-f640-13e2-a04e93c566ef",
+      "title": "Long-haul flights suspended by Norwegian Air due to financial difficulties",
+      "description": "Representatives of Norwegian Air have announced that the company is exiting the long-haul market and will suspend all long-haul flights due to recent financial difficulties triggered by the COVID-19 pandemic. The company will maintain a focus on European routes.",
+      "categoryId": "26050e02-c1d2-4584-a702-ea20d2d9d421",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T10:30:04.633",
+      "endDate": "2021-01-15T10:30:04.633",
+      "countryId": "63b1db92-efd6-41f4-9fa7-070867f105eb",
+      "createdDate": "2021-01-14T10:42:35.813",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 60.1976,
+      "longitude": 11.1004,
+      "notes": "Travellers with scheduled long-haul travel with Norwegian Air are advised to contact airline representatives. Alternate travel plans should be made well ahead of departure. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "26050e02-c1d2-4584-a702-ea20d2d9d421",
+      "categoryName": "Travel Information",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "63b1db92-efd6-41f4-9fa7-070867f105eb",
+      "countryName": "Norway",
+      "latitude": 59.9127,
+      "longitude": 10.7461,
+      "riskId": "dd673d24-5eaf-4463-8e8d-814dd031a752",
+      "isDeleted": false,
+      "isoCode": "NO"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "84699ace-a5ce-22db-9b68-9d393199b08e",
+      "title": "Multiple people kidnapped by gunmen in Kaduna State on 13 January",
+      "description": "Local media sources report that at least 18 people, including four mothers and their babies, were abducted in the Mando community in Birnin Gwari, a town in Kaduna State on Wednesday 13 January. Police are yet to comment on the incident. As of yet, no group has claimed responsibility for the attack.",
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "startDate": "2021-01-14T09:21:14.973",
+      "endDate": "2021-01-15T09:21:14.973",
+      "countryId": "2ae8ed91-a795-4381-b158-3c68f61e19f2",
+      "createdDate": "2021-01-14T09:36:05.093",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 10.7119,
+      "longitude": 6.56566,
+      "notes": "Violence of this nature is not uncommon in Kaduna State and travellers should assess whether to travel to rural Nigeria is business-critical. If not, delays or enhanced risk mitigation measures should be considered ahead of travel. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "categoryName": "Caution",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "riskName": "High",
+      "colourId": "b8e0f70c-2814-4b13-b704-97ebf8a28c1d",
+      "isDeleted": false,
+      "sortOrder": 3
+    },
+    "country": {
+      "countryId": "2ae8ed91-a795-4381-b158-3c68f61e19f2",
+      "countryName": "Nigeria",
+      "latitude": 9.04949,
+      "longitude": 7.42218,
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "isDeleted": false,
+      "isoCode": "NG"
+    },
+    "colour": {
+      "colourId": "b8e0f70c-2814-4b13-b704-97ebf8a28c1d",
+      "colourName": "Orange",
+      "colourRed": 255,
+      "colourGreen": 102,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,102,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "c407ebc8-2b41-5922-ffc3-89a132282664",
+      "title": "COVID-19 curfew restrictions eased from 15 January",
+      "description": "Authorities in Jordan have announced that the nationwide Friday curfew hours will be eased to 00:00 local time to 06:00 local time from 15 January. The changes come after a recent improvement in the COVID-19 situation.",
+      "categoryId": "26050e02-c1d2-4584-a702-ea20d2d9d421",
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "startDate": "2021-01-14T08:29:45.557",
+      "endDate": "2021-01-15T08:29:45.557",
+      "countryId": "92883404-7ada-4180-8704-30806d044ff3",
+      "createdDate": "2021-01-14T08:44:59.797",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 31.7222,
+      "longitude": 35.9864,
+      "notes": "Solace Global advises travellers to ensure that they are aware of any country-specific travel restrictions that may be in place and have all the relevant documentation available whilst in-country. There is a risk that any country or area may implement new restrictions without notice.  It is advised that you check your relevant government's travel advice and contact your airline or travel provider for more details. Continue to monitor for updates. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "26050e02-c1d2-4584-a702-ea20d2d9d421",
+      "categoryName": "Travel Information",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "riskName": "Low",
+      "colourId": "f5c7dc4d-8e76-4375-81e1-5a4264289d72",
+      "isDeleted": false,
+      "sortOrder": 1
+    },
+    "country": {
+      "countryId": "92883404-7ada-4180-8704-30806d044ff3",
+      "countryName": "Jordan",
+      "latitude": 31.9552,
+      "longitude": 35.945,
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "isDeleted": false,
+      "isoCode": "JO"
+    },
+    "colour": {
+      "colourId": "f5c7dc4d-8e76-4375-81e1-5a4264289d72",
+      "colourName": "Green",
+      "colourRed": 51,
+      "colourGreen": 153,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:51,153,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "7ceacae4-528a-e74c-06f5-62878852e479",
+      "title": "Update: At least one dead and three injured after explosion in Tianjin",
+      "description": "Local media reporting indicates that at least one person has been killed and four more were injured after an explosion at an auto parts workshop in the Free Trade Zone of Tianjin Port. Reports indicate that emergency rescue teams remain at the scene and the casualties were quickly hospitalised.",
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T07:44:38.957",
+      "endDate": "2021-01-15T07:44:38.957",
+      "countryId": "9fa3912d-f885-4c7f-b985-dd86981374d6",
+      "createdDate": "2021-01-14T07:58:46.18",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 38.9973,
+      "longitude": 117.759,
+      "notes": "Avoid the area of the explosion as emergency rescue teams remain at the scene. Localised travel disruption should be anticipated within the vicinity of the blast and alternate routes or means of transport should be planned ahead of departure. If resident within the vicinity of the explosion, adhere to all directives issued by authorities. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "categoryName": "Caution",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "9fa3912d-f885-4c7f-b985-dd86981374d6",
+      "countryName": "China",
+      "latitude": 39.9075,
+      "longitude": 116.397,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "CN"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "aacf2512-04ae-5460-09a2-a4c72b0ae967",
+      "title": "Explosion reported at an auto parts workshop in Tianjin Port, no injuries immediately reported",
+      "description": "Local media sources report an explosion at an auto parts workshop situated in the Free Trade Zone of Tianjin Port. The cause of the blast has not yet been reported. As of yet, there are no reports of any casualties resulting from the explosion.",
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T07:30:17.907",
+      "endDate": "2021-01-15T07:30:17.907",
+      "countryId": "9fa3912d-f885-4c7f-b985-dd86981374d6",
+      "createdDate": "2021-01-14T07:38:25.273",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 38.9973,
+      "longitude": 117.759,
+      "notes": "Avoid the area of the incident as emergency service operations are ongoing and the situation may escalate further. Localised travel disruption is likely and alternate travel plans should be made to avoid delays. Monitor local media for updates. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "categoryName": "Caution",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "9fa3912d-f885-4c7f-b985-dd86981374d6",
+      "countryName": "China",
+      "latitude": 39.9075,
+      "longitude": 116.397,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "CN"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "4a7e4036-5a2f-3705-d851-b94d4a34aa73",
+      "title": "Taxi driver killed in magnetic bomb blast in Kandahar city",
+      "description": "According to media sources, a taxi driver was killed after a magnetic improvised explosive device detonated in Kandahar city. The exact location of the blast was not immediately reported. As of yet, no group has claimed responsibility for the attack.",
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "startDate": "2021-01-14T07:06:23.037",
+      "endDate": "2021-01-15T07:06:23.037",
+      "countryId": "b4ab6b99-4e49-4245-916d-86fe61f0b2af",
+      "createdDate": "2021-01-14T07:12:18.46",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 31.6289,
+      "longitude": 65.7372,
+      "notes": "Travellers are advised against all but essential travel to Afghanistan due to the country's volatile security environment. In the event of an Improvised Explosive Device (IED) explosion, it is recommended to seek cover due to the potential for secondary blasts or a follow-up attack. Assailants may target crowds gathered at assembly points after the initial explosion. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "categoryName": "Caution",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "riskName": "High",
+      "colourId": "b8e0f70c-2814-4b13-b704-97ebf8a28c1d",
+      "isDeleted": false,
+      "sortOrder": 3
+    },
+    "country": {
+      "countryId": "b4ab6b99-4e49-4245-916d-86fe61f0b2af",
+      "countryName": "Afghanistan",
+      "latitude": 34.528,
+      "longitude": 69.1908,
+      "riskId": "721d1655-f4e9-469a-a6e0-44504dfd34a4",
+      "isDeleted": false,
+      "isoCode": "AF"
+    },
+    "colour": {
+      "colourId": "b8e0f70c-2814-4b13-b704-97ebf8a28c1d",
+      "colourName": "Orange",
+      "colourRed": 255,
+      "colourGreen": 102,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,102,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "3bbbf3c5-8a22-83a4-9d26-12811cad5b45",
+      "title": "5.7 magnitude earthquake detected south of Mamuju",
+      "description": "The United States Geological Survey (USGS) indicates that a 5.7 magnitude earthquake was detected 31km south of Mamuju. The tremor was reported at 06:35 UTC and struck at a depth of 18.8km. As of yet, there are no reports of damage or casualties resulting from the quake. Aftershocks remain likely.",
+      "categoryId": "303ad966-c46f-421d-aa65-e1fd60f92d43",
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "startDate": "2021-01-14T06:56:13.893",
+      "endDate": "2021-01-15T06:56:13.893",
+      "countryId": "8c278714-49e7-4687-8b47-45ad62505503",
+      "createdDate": "2021-01-14T07:00:54.73",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": -2.969,
+      "longitude": 118.893,
+      "notes": "Large tremors are anticipated after significant earthquakes. It is recommended to adopt the same safety measures should these occur. If in a building, travellers should get under a mattress, steel re-enforced table, or up against walls. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "303ad966-c46f-421d-aa65-e1fd60f92d43",
+      "categoryName": "Environmental",
+      "isDeleted": false,
+      "iconId": "b4082237-2ede-43ac-9608-e9ca4b1aaa2b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "riskName": "High",
+      "colourId": "b8e0f70c-2814-4b13-b704-97ebf8a28c1d",
+      "isDeleted": false,
+      "sortOrder": 3
+    },
+    "country": {
+      "countryId": "8c278714-49e7-4687-8b47-45ad62505503",
+      "countryName": "Indonesia",
+      "latitude": -6.21462,
+      "longitude": 106.845,
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "isDeleted": false,
+      "isoCode": "ID"
+    },
+    "colour": {
+      "colourId": "b8e0f70c-2814-4b13-b704-97ebf8a28c1d",
+      "colourName": "Orange",
+      "colourRed": 255,
+      "colourGreen": 102,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,102,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "8a09494d-80a5-2c37-f206-dc83aba0376b",
+      "title": "Anti-lockdown protest planned on 16 January in Birmingham, West Midlands",
+      "description": "Social media sources indicate that anti-lockdown activists are planning a march protest on 16 January in Central Birmingham. Participants are expected to gather at 1300 local time in Victoria Square to denounce restrictions imposed by the UK government in light of the COVID-19 pandemic. Heightened security measures and travel disruptions are expected. Clashes between protesters and police cannot be ruled out.",
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T05:35:07.083",
+      "endDate": "2021-01-17T05:35:07.083",
+      "countryId": "fbc2d4e1-e47b-4775-86d9-0ff323629b83",
+      "createdDate": "2021-01-14T05:42:52.11",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 52.479,
+      "longitude": -1.9028,
+      "notes": "Travellers are advised to avoid all demonstrations and large public gatherings. Whilst they may seem peaceful, there is potential for violence. Localised travel disruption is anticipated in the area of the demonstration. Travellers are advised to allow additional time for transport times or arrange alternate routes to minimise potential delays. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "categoryName": "Civil Unrest",
+      "isDeleted": false,
+      "iconId": "dc1e17e5-cde8-4aa4-b085-1e397edb56eb",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "fbc2d4e1-e47b-4775-86d9-0ff323629b83",
+      "countryName": "United Kingdom",
+      "latitude": 51.5,
+      "longitude": -0.1167,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "GB"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "1b6adb9e-c061-746b-e272-f624729fe17a",
+      "title": "New York - Several killed in shooting incident in Schodack",
+      "description": "Local media reporting indicates that several people have been killed in a shooting incident in Schodack. Police are at the scene on Angelo Avenue, have erected a cordon and are conducting an investigation. As yet, no arrests have been made in connection with this incident.",
+      "categoryId": "f70c0ec1-33bf-491f-9bfe-b471643a9e96",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T04:50:30.757",
+      "endDate": "2021-01-15T04:50:30.76",
+      "countryId": "e2833122-a848-4d8d-9238-5eb604b1a262",
+      "createdDate": "2021-01-14T04:54:10.01",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 42.5139,
+      "longitude": -73.6876,
+      "notes": "Gun crime is not uncommon in the United States. Travellers are advised to avoid the area of the incident as the shooter remains unapprehended and there is potential for another shooting. It is recommended to maintain situational awareness and inform local authorities of any suspicious behaviour. If in the vicinity of a shooting, seek cover from fire immediately. If safe to do so without giving away your location, call for assistance. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "f70c0ec1-33bf-491f-9bfe-b471643a9e96",
+      "categoryName": "Crime",
+      "isDeleted": false,
+      "iconId": "a087ced3-fe23-405b-ae4e-0ec455456c99",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "e2833122-a848-4d8d-9238-5eb604b1a262",
+      "countryName": "United States",
+      "latitude": 38.8748,
+      "longitude": -77.0254,
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "isDeleted": false,
+      "isoCode": "US"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "0f164418-3ae3-ce1d-63f0-d8f018d4addf",
+      "title": "Bomb threat triggers evacuation in Townsville, Queensland",
+      "description": "Local media reporting indicates that Stockland Shopping Centre in Townsville has been evacuated following a bomb threat. Emergency services are at the scene and are working to make the area safe. Further evacuations cannot be ruled out.",
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T04:47:00.173",
+      "endDate": "2021-01-15T04:47:00.173",
+      "countryId": "32cedf0c-329d-42a8-bfe4-c873d47030b0",
+      "createdDate": "2021-01-14T04:50:02.377",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": -19.2989,
+      "longitude": 146.763,
+      "notes": "Travellers are advised to avoid the area as the situation may still escalate. If asked to evacuate the area, travellers should adhere to local authority instructions and leave as soon as possible by the safest route available. Individuals near the affected area are advised to monitor the development of the situation. It is advised to allow additional time for travel as emergency services are conducting operations in the area. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "categoryName": "Caution",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "32cedf0c-329d-42a8-bfe4-c873d47030b0",
+      "countryName": "Australia",
+      "latitude": -35.2835,
+      "longitude": 149.128,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "AU"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "a8305618-2845-b1fd-b579-4b74a8a6e275",
+      "title": "Protest planned on 14 January in Manila",
+      "description": "Security sources indicate that democracy activists are planning a protest on 14 January in Manila. Participants are expected to gather at 1300 local time outside the Palacio del Gobernador to condemn recent developments with regards to voting technology. Heightened security measures and travel disruptions are expected.",
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "startDate": "2021-01-14T04:04:32.443",
+      "endDate": "2021-01-15T04:04:32.443",
+      "countryId": "f0a88dcb-bee1-48dc-ab82-0dcf7c47c3ae",
+      "createdDate": "2021-01-14T04:10:01.887",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 14.5917,
+      "longitude": 120.973,
+      "notes": "Travellers are advised to avoid all demonstrations and large public gatherings. Whilst they may seem peaceful, there is potential for violence. Localised travel disruption is anticipated in the area of the demonstration. Travellers are advised to allow additional time for transport times or arrange alternate routes to minimise potential delays. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "categoryName": "Civil Unrest",
+      "isDeleted": false,
+      "iconId": "dc1e17e5-cde8-4aa4-b085-1e397edb56eb",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "riskName": "Low",
+      "colourId": "f5c7dc4d-8e76-4375-81e1-5a4264289d72",
+      "isDeleted": false,
+      "sortOrder": 1
+    },
+    "country": {
+      "countryId": "f0a88dcb-bee1-48dc-ab82-0dcf7c47c3ae",
+      "countryName": "Philippines",
+      "latitude": 14.6042,
+      "longitude": 120.982,
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "isDeleted": false,
+      "isoCode": "PH"
+    },
+    "colour": {
+      "colourId": "f5c7dc4d-8e76-4375-81e1-5a4264289d72",
+      "colourName": "Green",
+      "colourRed": 51,
+      "colourGreen": 153,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:51,153,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "4aaad1e3-12ed-c6c7-a7b9-555a91661f71",
+      "title": "Incoming travellers to England to require negative COVID-19 test",
+      "description": "Authorities in the UK have announced that all international arrivals to England will be required to provide proof of a negative PCR test for COVID-19 no more than 3 days old from 18 January.",
+      "categoryId": "26050e02-c1d2-4584-a702-ea20d2d9d421",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T02:33:16.29",
+      "endDate": "2021-03-18T02:33:16.29",
+      "countryId": "fbc2d4e1-e47b-4775-86d9-0ff323629b83",
+      "createdDate": "2021-01-14T02:40:52.683",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 51.5074,
+      "longitude": -0.127758,
+      "notes": "Solace Global advises travellers to ensure that they are aware of any country-specific travel restrictions that may be in place and have all the relevant documentation available whilst in-country. There is a risk that any country or area may implement new restrictions without notice.  It is advised that you check your relevant government's travel advice and contact your airline or travel provider for more details. Continue to monitor for updates. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "26050e02-c1d2-4584-a702-ea20d2d9d421",
+      "categoryName": "Travel Information",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "fbc2d4e1-e47b-4775-86d9-0ff323629b83",
+      "countryName": "United Kingdom",
+      "latitude": 51.5,
+      "longitude": -0.1167,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "GB"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "ae88a357-4abe-93d6-c873-79b96e615b54",
+      "title": "Anti-government protest planned on 14 January in Guatemala City",
+      "description": "Security sources indicate that anti-government activists are planning a protest on 14 January in Guatemala City. Participants are expected to gather outside the National Palace to demand the resignation of President Alejandro Giammettei and members of Congress. Heightened security measures and travel disruptions are expected.",
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T02:13:49.343",
+      "endDate": "2021-01-15T02:13:49.343",
+      "countryId": "6a46756b-028d-4e88-bf1d-4b80f679c0c2",
+      "createdDate": "2021-01-14T02:19:43.07",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 14.6426,
+      "longitude": -90.5131,
+      "notes": "Travellers are advised to avoid all demonstrations and large public gatherings. Whilst they may seem peaceful, there is potential for violence. Localised travel disruption is anticipated in the area of the demonstration. Travellers are advised to allow additional time for transport times or arrange alternate routes to minimise potential delays. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "categoryName": "Civil Unrest",
+      "isDeleted": false,
+      "iconId": "dc1e17e5-cde8-4aa4-b085-1e397edb56eb",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "6a46756b-028d-4e88-bf1d-4b80f679c0c2",
+      "countryName": "Guatemala",
+      "latitude": 14.6407,
+      "longitude": -90.5133,
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "isDeleted": false,
+      "isoCode": "GT"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "0d5e6912-3001-7a33-6b54-9407d8516606",
+      "title": "California - Shooting incident reported in San jose",
+      "description": "Local media reporting indicates that at least one person has been seriously injured in a shooting incident in the East Virginia area of San Jose. Police are at the scene on the 100 block of East Virginia Street, have erected a cordon and are conducting an investigation. As yet, no arrests have been made in connection with this incident.",
+      "categoryId": "f70c0ec1-33bf-491f-9bfe-b471643a9e96",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T01:49:18.067",
+      "endDate": "2021-01-15T01:49:18.067",
+      "countryId": "e2833122-a848-4d8d-9238-5eb604b1a262",
+      "createdDate": "2021-01-14T01:53:57.84",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 37.3247,
+      "longitude": -121.88,
+      "notes": "Gun crime is not uncommon in the United States. Travellers are advised to avoid the area of the incident as the shooter remains unapprehended and there is potential for another shooting. It is recommended to maintain situational awareness and inform local authorities of any suspicious behaviour. If in the vicinity of a shooting, seek cover from fire immediately. If safe to do so without giving away your location, call for assistance. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "f70c0ec1-33bf-491f-9bfe-b471643a9e96",
+      "categoryName": "Crime",
+      "isDeleted": false,
+      "iconId": "a087ced3-fe23-405b-ae4e-0ec455456c99",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "e2833122-a848-4d8d-9238-5eb604b1a262",
+      "countryName": "United States",
+      "latitude": 38.8748,
+      "longitude": -77.0254,
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "isDeleted": false,
+      "isoCode": "US"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "bde70caf-f62e-fefe-a1ff-7a88910a868f",
+      "title": "Pro-democracy protest planned on 14 January in Pathum Thani",
+      "description": "Security sources indicate that pro-democracy activists are planning a protest on 14 January in Pathum Thani. Participants are expected to gather at 0800 local time outside the Thanyaburi Provincial Court. Heightened security measures and travel disruptions are expected.",
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T00:43:18.513",
+      "endDate": "2021-01-15T00:43:18.513",
+      "countryId": "8a98009b-7ba6-45c4-a045-7284823dc8b4",
+      "createdDate": "2021-01-14T00:49:01.797",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 14.0197,
+      "longitude": 100.732,
+      "notes": "Travellers are advised to avoid all demonstrations and large public gatherings. Whilst they may seem peaceful, there is potential for violence. Localised travel disruption is anticipated in the area of the demonstration. Travellers are advised to allow additional time for transport times or arrange alternate routes to minimise potential delays. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "categoryName": "Civil Unrest",
+      "isDeleted": false,
+      "iconId": "dc1e17e5-cde8-4aa4-b085-1e397edb56eb",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "8a98009b-7ba6-45c4-a045-7284823dc8b4",
+      "countryName": "Thailand",
+      "latitude": 13.75,
+      "longitude": 100.517,
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "isDeleted": false,
+      "isoCode": "TH"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "c5eade96-3997-4936-8181-4b4ebeb37084",
+      "title": "Deadly stabbing incident reported in Toronto, Ontario",
+      "description": "Local media reporting indicates that at least one person has been killed in a stabbing incident in the Brimley area of Toronto. Police are at the scene near the junction of Eglinton Avenue East and Midland Avenue, have erected a cordon and are conducting an investigation. As yet, no arrests have been made in connection with this incident.",
+      "categoryId": "f70c0ec1-33bf-491f-9bfe-b471643a9e96",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-14T00:09:22.51",
+      "endDate": "2021-01-15T00:09:22.51",
+      "countryId": "19eb8a42-8600-4c81-90ea-0f69459b6a05",
+      "createdDate": "2021-01-14T00:13:09.54",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 43.7345,
+      "longitude": -79.2581,
+      "notes": "Travellers are advised to avoid the area of the incident as the attacker remains unapprehended and there is potential for further violence. It is recommended to maintain situational awareness and inform local authorities of any suspicious behaviour. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "f70c0ec1-33bf-491f-9bfe-b471643a9e96",
+      "categoryName": "Crime",
+      "isDeleted": false,
+      "iconId": "a087ced3-fe23-405b-ae4e-0ec455456c99",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "19eb8a42-8600-4c81-90ea-0f69459b6a05",
+      "countryName": "Canada",
+      "latitude": 45.4213,
+      "longitude": -75.6974,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "CA"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "de5d0f6b-7f9b-87dd-a5aa-2149a395ebc6",
+      "title": "Anti-lockdown protest planned on 16 January in Edmonton, Alberta",
+      "description": "Social media sources indicate that anti-lockdown activists are planning a protest on 16 January in Downtown Edmonton. Participants are expected to gather at 1300 local time in Sir Winston Churchill Square to demand the removal of all restrictions designed to slow the spread of COVID-19. Heightened security measures and travel disruptions are expected. Clashes between protesters and police cannot be ruled out.",
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-13T23:51:25.343",
+      "endDate": "2021-01-17T23:51:25.343",
+      "countryId": "19eb8a42-8600-4c81-90ea-0f69459b6a05",
+      "createdDate": "2021-01-13T23:53:46.783",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 53.544,
+      "longitude": -113.49,
+      "notes": "Travellers are advised to avoid all demonstrations and large public gatherings. Whilst they may seem peaceful, there is potential for violence. Localised travel disruption is anticipated in the area of the demonstration. Travellers are advised to allow additional time for transport times or arrange alternate routes to minimise potential delays. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "categoryName": "Civil Unrest",
+      "isDeleted": false,
+      "iconId": "dc1e17e5-cde8-4aa4-b085-1e397edb56eb",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "19eb8a42-8600-4c81-90ea-0f69459b6a05",
+      "countryName": "Canada",
+      "latitude": 45.4213,
+      "longitude": -75.6974,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "CA"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "5bddf0bb-44a8-2c36-a3b1-baa1068905d4",
+      "title": "Anti-lockdown protest planned on 16 January in Vienna",
+      "description": "Social media sources indicate that anti-lockdown activists are planning a protest on 16 January in central Vienna. Participants are expected to gather at 1300 local time in Heldenplatz to denounce restrictions imposed by the Austrian government in light of the COVID-19 pandemic. Heightened security measures and travel disruptions are expected. Clashes between protesters and police cannot be ruled out.",
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-13T22:56:57.44",
+      "endDate": "2021-01-17T22:56:57.44",
+      "countryId": "9c9f3ba3-d1e4-4ff2-af86-a99753977d53",
+      "createdDate": "2021-01-13T23:06:19.21",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 48.2064,
+      "longitude": 16.3632,
+      "notes": "Travellers are advised to avoid all demonstrations and large public gatherings. Whilst they may seem peaceful, there is potential for violence. Localised travel disruption is anticipated in the area of the demonstration. Travellers are advised to allow additional time for transport times or arrange alternate routes to minimise potential delays. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "categoryName": "Civil Unrest",
+      "isDeleted": false,
+      "iconId": "dc1e17e5-cde8-4aa4-b085-1e397edb56eb",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "9c9f3ba3-d1e4-4ff2-af86-a99753977d53",
+      "countryName": "Austria",
+      "latitude": 48.2096,
+      "longitude": 16.3849,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "AT"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "b9e512ac-6805-058d-baf7-acbc9d13044e",
+      "title": "Anti-lockdown protest march planned on 17 January in Hamburg",
+      "description": "Social media sources indicate that anti-lockdown activists are planning a protest march on 17 January in Hamburg. Participants are expected to gather at 1115 local time in Schanzenviertel and will march to Jungfernstieg to denounce restrictions imposed by the German government in light of the COVID-19 pandemic. Heightened security measures and travel disruptions are expected. Clashes between protesters and police cannot be ruled out.",
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-13T22:43:15.167",
+      "endDate": "2021-01-18T22:43:15.167",
+      "countryId": "7c14e00f-368a-4db6-9088-c538c7055b7c",
+      "createdDate": "2021-01-13T22:53:56.487",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 53.5621,
+      "longitude": 9.96581,
+      "notes": "Travellers are advised to avoid all demonstrations and large public gatherings. Whilst they may seem peaceful, there is potential for violence. Localised travel disruption is anticipated in the area of the demonstration. Travellers are advised to allow additional time for transport times or arrange alternate routes to minimise potential delays. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "categoryName": "Civil Unrest",
+      "isDeleted": false,
+      "iconId": "dc1e17e5-cde8-4aa4-b085-1e397edb56eb",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "7c14e00f-368a-4db6-9088-c538c7055b7c",
+      "countryName": "Germany",
+      "latitude": 52.5244,
+      "longitude": 13.4105,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "DE"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "a58c60a2-90b8-90d8-decf-61660c57308e",
+      "title": "Suspicipous item find triggers disruptions in Newtownbutler, County Fermanagh",
+      "description": "Local media reporting indicates that the discovery of a suspicious item has triggered disruptions in Newtownbutler. Police are at the scene on Wattlebridge Road and have erected a wide cordon. A specialist team is currently working to make the area safe. Heightened security measures and travel disruptions are expected.",
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-13T22:33:50.327",
+      "endDate": "2021-01-14T22:33:50.327",
+      "countryId": "fbc2d4e1-e47b-4775-86d9-0ff323629b83",
+      "createdDate": "2021-01-13T22:40:14.76",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 54.1821,
+      "longitude": -7.36033,
+      "notes": "Such incidents are not uncommon in Northern Ireland. Travellers are advised to avoid the area where the item has been discovered. If in the vicinity of a suspicious item, do not touch or inspect it, report the item to a member of staff, security personnel, or the authorities, informing them of the exact location of the item. It is advised to allow additional time for travel as emergency services are conducting operations in the area. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "2232e1b1-1c3a-446c-ac02-6772f667f4c3",
+      "categoryName": "Caution",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "fbc2d4e1-e47b-4775-86d9-0ff323629b83",
+      "countryName": "United Kingdom",
+      "latitude": 51.5,
+      "longitude": -0.1167,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "GB"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "4f00cb8e-6eaa-49b0-9fb1-bd5e845f0980",
+      "title": "Anti-lockdown protest planned on 16 January in Toronto, Ontario",
+      "description": "Social media sources indicate that anti-lockdown activists are planning a protest on 16 January in Toronto. Participants are expected to gather at 1200 local time in Nathan Phillips Square to demand the removal of all restrictions designed to slow the spread of COVID-19. Heightened security measures and travel disruptions are expected. Clashes between protesters and police cannot be ruled out.",
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-13T22:07:47.037",
+      "endDate": "2021-01-17T22:07:47.037",
+      "countryId": "19eb8a42-8600-4c81-90ea-0f69459b6a05",
+      "createdDate": "2021-01-13T22:14:23.117",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 43.6527,
+      "longitude": -79.3834,
+      "notes": "Travellers are advised to avoid all demonstrations and large public gatherings. Whilst they may seem peaceful, there is potential for violence. Localised travel disruption is anticipated in the area of the demonstration. Travellers are advised to allow additional time for transport times or arrange alternate routes to minimise potential delays. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "categoryName": "Civil Unrest",
+      "isDeleted": false,
+      "iconId": "dc1e17e5-cde8-4aa4-b085-1e397edb56eb",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "19eb8a42-8600-4c81-90ea-0f69459b6a05",
+      "countryName": "Canada",
+      "latitude": 45.4213,
+      "longitude": -75.6974,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "CA"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "b2966e46-5614-ebcd-5fc9-8a3cd26c6b7c",
+      "title": "President Donald Trump impeached",
+      "description": "The US House of Representatives has voted to impeach President Donald Trump for a second time. The vote follows Trump's alleged incitement of a crowd which attacked the Capitol Building on 6 January. A trial in the Senate will follow in the coming days to determine whether the president should be barred from holding public office once his term comes to an end on 10 January. Protests condemning the vote cannot be ruled out in the near future across the United States.",
+      "categoryId": "136d87c6-e282-4548-946d-f6010d247786",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-13T21:24:56.12",
+      "endDate": "2021-01-24T21:24:56.12",
+      "countryId": "e2833122-a848-4d8d-9238-5eb604b1a262",
+      "createdDate": "2021-01-13T21:39:02.117",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 38.8899,
+      "longitude": -77.0091,
+      "notes": "Protests and rallies are common during periods of political upheaval and can become sources of violence. Avoid any such events to mitigate the risk of being caught up in violent clashes. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "136d87c6-e282-4548-946d-f6010d247786",
+      "categoryName": "Political",
+      "isDeleted": false,
+      "iconId": "f7166956-27dd-4e0a-acb8-e3e08995e310",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "e2833122-a848-4d8d-9238-5eb604b1a262",
+      "countryName": "United States",
+      "latitude": 38.8748,
+      "longitude": -77.0254,
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "isDeleted": false,
+      "isoCode": "US"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "44588ef2-b2ef-ec2d-caa9-5c331bf2837b",
+      "title": "Gulf of Guinea - Merchant vessel reports suspicious approach near Brass, Nigeria",
+      "description": "Maritime security sources indicate that a merchant vessel has reported a suspicious approach by at least one small craft in the Gulf of Guinea, approximately 150 nm south of Bonny Nigeria. The crew have moved into the citadel. As yet, no further information is available regarding this incident.",
+      "categoryId": "4d865575-b228-4d09-9186-c91ecdda7427",
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "startDate": "2021-01-13T21:06:53.4",
+      "endDate": "2021-01-14T21:06:53.4",
+      "countryId": "05499852-9a2b-4d42-8769-b1ba096bdefb",
+      "createdDate": "2021-01-13T21:14:49.73",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 2.38333,
+      "longitude": 5.65,
+      "notes": "Mariners are advised to exercise extreme caution as vessel boardings occur with some frequency in the Gulf of Guinea. It is recommended to maintain 24hr watches whilst anchored or whilst ship operations are underway. In the event of a pirate attack, vessels are advised to take necessary steps in line with Best Management Practises (BMP5). For more information and advice, contact Solace Global Maritime operations on +44 1202 308 810 or via operations@solaceglobal.com"
+    },
+    "category": {
+      "categoryId": "4d865575-b228-4d09-9186-c91ecdda7427",
+      "categoryName": "Piracy",
+      "isDeleted": false,
+      "iconId": "5adb041b-d7d3-495f-9059-3d709d6986d0",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "riskName": "High",
+      "colourId": "b8e0f70c-2814-4b13-b704-97ebf8a28c1d",
+      "isDeleted": false,
+      "sortOrder": 3
+    },
+    "country": {
+      "countryId": "05499852-9a2b-4d42-8769-b1ba096bdefb",
+      "countryName": "Non-Applicable",
+      "latitude": -1.27431,
+      "longitude": -1.09863,
+      "riskId": "dd673d24-5eaf-4463-8e8d-814dd031a752",
+      "isDeleted": false,
+      "isoCode": "XX"
+    },
+    "colour": {
+      "colourId": "b8e0f70c-2814-4b13-b704-97ebf8a28c1d",
+      "colourName": "Orange",
+      "colourRed": 255,
+      "colourGreen": 102,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,102,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "a2eab492-3fb8-6086-8ded-32e023d29ea6",
+      "title": "Louisiana - Shooting incident reported in New Orleans",
+      "description": "Local media reporting indicates that at least one person has been seriously injured in a shooting incident in New Orleans' Seventh Ward. Police are at the scene on the 2000 block of North Broad Street, have erected a cordon and are conducting an investigation. As yet, no arrests have been made in connection with this incident.",
+      "categoryId": "f70c0ec1-33bf-491f-9bfe-b471643a9e96",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-13T20:42:55.207",
+      "endDate": "2021-01-14T20:42:55.207",
+      "countryId": "e2833122-a848-4d8d-9238-5eb604b1a262",
+      "createdDate": "2021-01-13T20:49:05.593",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 29.9841,
+      "longitude": -90.0706,
+      "notes": "Gun crime is not uncommon in the United States. Travellers are advised to avoid the area of the incident as the shooter remains unapprehended and there is potential for another shooting. It is recommended to maintain situational awareness and inform local authorities of any suspicious behaviour. If in the vicinity of a shooting, seek cover from fire immediately. If safe to do so without giving away your location, call for assistance. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "f70c0ec1-33bf-491f-9bfe-b471643a9e96",
+      "categoryName": "Crime",
+      "isDeleted": false,
+      "iconId": "a087ced3-fe23-405b-ae4e-0ec455456c99",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "e2833122-a848-4d8d-9238-5eb604b1a262",
+      "countryName": "United States",
+      "latitude": 38.8748,
+      "longitude": -77.0254,
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "isDeleted": false,
+      "isoCode": "US"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "3bee2dfe-1144-1672-a756-5773bd3da6e4",
+      "title": "Lockdown to be imposed from 15 January nationwide",
+      "description": "Authorities in Portugal have announced that a lockdown will be imposed from 15 January in an effort to curb the spread of COVID-19. Per the measures to be imposed, residents have been instructed to remain in their homes, with exceptions for those carrying out essential tasks. The lockdown will be in place for at least a month.",
+      "categoryId": "26050e02-c1d2-4584-a702-ea20d2d9d421",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-13T20:27:24.687",
+      "endDate": "2021-02-18T20:27:24.687",
+      "countryId": "50ccd2b4-479f-499c-b094-ab356aca5f79",
+      "createdDate": "2021-01-13T20:38:48.603",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 38.7223,
+      "longitude": -9.13934,
+      "notes": "Solace Global advises travellers to ensure that they are aware of any country specific travel restrictions that may be in place and have all the relevant documentation available whilst in country. There is a risk that any country or area may implement new restrictions without notice.  It is advised that you check your relevant government's travel advice and contact your airline or travel provider for more details. Continue to monitor for updates. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "26050e02-c1d2-4584-a702-ea20d2d9d421",
+      "categoryName": "Travel Information",
+      "isDeleted": false,
+      "iconId": "60aff035-2304-46b6-8269-13c1eeb17d6b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "50ccd2b4-479f-499c-b094-ab356aca5f79",
+      "countryName": "Portugal",
+      "latitude": 38.7167,
+      "longitude": -9.13333,
+      "riskId": "b256274b-b198-47b4-9ada-f460b1d57edd",
+      "isDeleted": false,
+      "isoCode": "PT"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "07439eba-3eb7-0a0d-d77e-1af1c7bba61a",
+      "title": "Opposition protests planned on 15 January nationwide",
+      "description": "Security sources indicate that opposition activists have called for nationwide protests on 15 January. Participants are expected to gather in urban centres to demand the resignation of President Jovenel Moise. Heightened security measures and travel disruptions are expected in the vicinity of any protest action.",
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-13T19:48:48.26",
+      "endDate": "2021-01-16T19:48:48.26",
+      "countryId": "b1b37d03-eb56-436b-8604-e90ce4ebc151",
+      "createdDate": "2021-01-13T20:02:22.913",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 18.5944,
+      "longitude": -72.3074,
+      "notes": "Protests in recent months in Haiti have resulted in clashes between demonstrators and security forces and should be avoided. Monitor local media outlets for further detail regarding protest actions in specific localities. Localised travel disruption is anticipated in the area of any demonstration. Travellers are advised to allow additional time for transport times or arrange alternate routes to minimise potential delays. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "a5e1678b-ecc4-4685-b3c2-723eddbe52f2",
+      "categoryName": "Civil Unrest",
+      "isDeleted": false,
+      "iconId": "dc1e17e5-cde8-4aa4-b085-1e397edb56eb",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "b1b37d03-eb56-436b-8604-e90ce4ebc151",
+      "countryName": "Haiti",
+      "latitude": 18.5392,
+      "longitude": -72.335,
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "isDeleted": false,
+      "isoCode": "HT"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "927367b1-23b0-f328-c559-0bee46df2fac",
+      "title": "Militants ambush UN vehicles in Timbuktu",
+      "description": "Security sources indicate that at least one UN peacekeeper has been killed and several others injured in a militant ambush of a UN convoy in Timbuktu. As yet, no further information is available regarding this incident.",
+      "categoryId": "e3587250-c5dd-4b6c-9f36-31a771546a2b",
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "startDate": "2021-01-13T19:00:43.137",
+      "endDate": "2021-01-14T19:00:43.137",
+      "countryId": "d0e55b96-30e3-465f-8d38-8aa5915c654c",
+      "createdDate": "2021-01-13T19:28:04.607",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 16.7666,
+      "longitude": -3.00256,
+      "notes": "It is advised to avoid all travel to Mali due to the volatile security context and ongoing insurgency in the Sahel. There remains a large presence of international troops deployed across the region who are frequently targeted by such attacks. Travellers to the region should ensure they have contingency measures in place such as security and evacuation plans should the conflict spread, or the security environment deteriorates rapidly. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "e3587250-c5dd-4b6c-9f36-31a771546a2b",
+      "categoryName": "Armed Conflict",
+      "isDeleted": false,
+      "iconId": "421b67ab-8e53-462e-a3b9-8b6d82fec775",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "849beaeb-d95d-46d7-90dd-5a7c9da29c86",
+      "riskName": "High",
+      "colourId": "b8e0f70c-2814-4b13-b704-97ebf8a28c1d",
+      "isDeleted": false,
+      "sortOrder": 3
+    },
+    "country": {
+      "countryId": "d0e55b96-30e3-465f-8d38-8aa5915c654c",
+      "countryName": "Mali",
+      "latitude": 12.65,
+      "longitude": -8,
+      "riskId": "721d1655-f4e9-469a-a6e0-44504dfd34a4",
+      "isDeleted": false,
+      "isoCode": "ML"
+    },
+    "colour": {
+      "colourId": "b8e0f70c-2814-4b13-b704-97ebf8a28c1d",
+      "colourName": "Orange",
+      "colourRed": 255,
+      "colourGreen": 102,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,102,0"
+    }
+  },
+  {
+    "alert": {
+      "alertId": "504501c1-d4fd-d90b-c8bc-7d1439605b9d",
+      "title": "Oregon - Large landslide reported near Interstate 84 outside Portland",
+      "description": "A large landslide has been reported near to the Interstate 84 outside Portland. The landslide followed heavy rains in the area last night and is estimated to be approximately 3.4 meters deep. Emergency services are present in the area and working to clear the debris.",
+      "categoryId": "303ad966-c46f-421d-aa65-e1fd60f92d43",
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "startDate": "2021-01-13T18:28:08.787",
+      "endDate": "2021-01-14T18:28:08.787",
+      "countryId": "e2833122-a848-4d8d-9238-5eb604b1a262",
+      "createdDate": "2021-01-13T18:32:41.5",
+      "createdBy": "19d4dc0b-ab0b-4c97-8c6b-299956289423",
+      "latitude": 45.6104,
+      "longitude": -122.025,
+      "notes": "Travellers are advised to avoid the area of the incident and to anticipate localised travel disruption due to the landslide's close proximity to Interstate 84. Do not drink flood water due to the potential risk of contamination by agricultural products, chemicals or sewage. For further assistance, training, or advice, please contact the Solace Global Risk operations centre on +44 (0) 1202 795 801 or via sgr@solaceglobal.com."
+    },
+    "category": {
+      "categoryId": "303ad966-c46f-421d-aa65-e1fd60f92d43",
+      "categoryName": "Environmental",
+      "isDeleted": false,
+      "iconId": "b4082237-2ede-43ac-9608-e9ca4b1aaa2b",
+      "customerId": "f120d2a6-d3f4-4a12-8de3-57449089ee9e",
+      "categoryTypeId": "8c586931-42b4-47a5-8290-33b2f6835d0a",
+      "flash": false
+    },
+    "risk": {
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "riskName": "Moderate",
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "isDeleted": false,
+      "sortOrder": 2
+    },
+    "country": {
+      "countryId": "e2833122-a848-4d8d-9238-5eb604b1a262",
+      "countryName": "United States",
+      "latitude": 38.8748,
+      "longitude": -77.0254,
+      "riskId": "69e7f70e-2a96-42a1-93e1-b98be37a970b",
+      "isDeleted": false,
+      "isoCode": "US"
+    },
+    "colour": {
+      "colourId": "a10ed224-8ccf-4004-b797-4491d3c1dc4e",
+      "colourName": "Yellow",
+      "colourRed": 255,
+      "colourGreen": 204,
+      "colourBlue": 0,
+      "isDeleted": false,
+      "rgbColor": "rgb:255,204,0"
+    }
+  }
+]
+

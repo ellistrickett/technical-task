@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DFl3/NEey8qNVIB6lX35oLofBPa0qRD/tp3jGiC2Ur8EXmFv82mqmjoblry+RvXIAi2+dAGne9YxG5CXdu2YqQ==",
+  "dgSpecHash": "oFQPhXhOvlWoe+kAQOzPsY4cZ8RValJEPP+YqvrbfsFPgEftSymLss87EBZ/AgZd7eQCIwYzXuUqL+ocJAZYpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ellis\\DevelopmentProjects\\technical-task\\TechnicalTaskBackend\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,7 @@
     "C:\\Users\\ellis\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\ellis\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\ellis\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\ellis\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\ellis\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\ellis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\ellis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

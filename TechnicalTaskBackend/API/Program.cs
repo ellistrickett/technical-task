@@ -1,9 +1,13 @@
 using API.Data;
+using Microsoft.AspNetCore.Mvc.ApplicationModels;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Newtonsoft.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<AlertDbContext>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -11,6 +15,18 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+using var serviceScope = app.Services.GetRequiredService<IServiceScopeFactory>().CreateScope();
+
+try
+{
+    AlertDbContext context = serviceScope.ServiceProvider.GetRequiredService<AlertDbContext>();
+    DataInitializer.SeedData(context).Wait();
+}
+catch (Exception ex)
+{
+
+}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

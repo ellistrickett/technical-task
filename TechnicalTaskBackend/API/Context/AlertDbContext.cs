@@ -9,6 +9,7 @@ namespace API.Data
         {
             optionsBuilder.UseSqlServer("Data Source=ELLISPC;Initial Catalog=TechnicalTaskDatabase;Integrated Security=True;Encrypt=false");
         }
-        DbSet<Alert> Alerts { get; set; }
+
+        public DbSet<Alert> Alerts { get; set; }
     }
 }
